@@ -1,5 +1,23 @@
-# Welcome to RUNE - the app for runners connecting with their community
-**„Discover. Run. Connect.“**
+# Welcome to RUNE
+## The app for runners connecting with their community
+### Discover. Run. Connect.
+
+The journey ahead is more than just a read — it’s a glimpse into a movement. Within the following pages, you will discover the beating heart of our vision, forged from the spirit of countless runners, shaped by experience, and driven by the need for something greater. You’ll learn about the challenge we uncovered — a quiet, persistent gap in the running world — and how this realization fueled a mission to build something bold, purposeful, and deeply human.
+
+For too long, runners have navigated a fragmented landscape. Finding local events often means scouring dozens of websites, following scattered social media posts, or relying on word of mouth. Connecting with like-minded individuals — runners who match your pace, your goals, your passion — can feel like chance rather than design. And the sense of community we all crave, the shared spirit that makes every kilometer more meaningful, is often lost in the noise.
+
+We believe it doesn’t have to be this way.
+
+Our mission is clear: to empower runners with a tool that brings simplicity, connection, and energy back into their journey. A tool that does more than just list events — one that understands who you are as a runner, and helps you find experiences that match not just your schedule, but your soul. Whether you're chasing a new PR, exploring scenic trails, or joining your first 5K, you deserve a platform that supports you every step of the way.
+
+But this isn’t just about logistics. It’s about people. It's about forging bonds between runners who might have otherwise passed each other by. It’s about building a community that celebrates diversity in pace, background, and ambition — yet runs together with a shared heartbeat. In this space, we envision runners encouraging one another, sharing tips, planning meetups, and forming friendships that last well beyond the finish line.
+
+Our proposed solution brings all of this to life. It combines smart technology with the soul of the running community — a platform that recommends events tailored to your interests, connects you with compatible running partners, and serves as a hub for everything that fuels your passion. Imagine an intuitive, beautiful space where you can discover, connect, and grow — not just as a runner, but as a part of something greater.
+
+We are building more than a product. We are building a rallying cry for runners who believe in the power of movement and the magic of shared purpose. So lace up, lean in, and let these next pages show you the path we’re charting — one that leads not just to more races, but to more meaning, more belonging, and more joy in every run.
+
+Welcome to the future of running. Welcome to a revolution on foot.
+
 
 ## Vision
 
