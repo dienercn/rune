@@ -25,9 +25,11 @@ RUNE empowers runners to effortlessly discover meaningful events, forge authenti
 
 ## Problem statement
 
+As a passionate runner, I often find myself searching for more than just races — I’m looking for a community that aligns with my values, goals, and lifestyle. But today, there is no central platform where I can easily discover and connect with like-minded runners or communities that truly fit my desires. Instead, I’m forced to rely on fragmented channels like Instagram, Facebook, or word of mouth, just to learn about local groups, events, or shared running experiences. Each platform shows me only glimpses — scattered posts, stories, or reels — but rarely the full picture: What does this community stand for? Are they inclusive? Do they run for performance, for fun, or for nature? Do they welcome someone like me?
+
+Even after finding a group that feels right, the process of actually connecting is messy and inconsistent. I’m often required to join a WhatsApp group, follow yet another account, or message someone directly — and that often feels awkward, insecure, and unstructured. I have concerns about data privacy and personal boundaries when using such open tools. I’m not just looking for the next run; I’m looking for a safe, welcoming space to belong, share, and grow as a runner. But right now, that space simply doesn’t exist in one place.
 
 
-Hier ist ein vollständiges **Branding-Konzept** für deine Running App **„RUNE“**, zugeschnitten auf deine Vision einer modernen, community-basierten Trail- und Running-App:
 
 ---
 
