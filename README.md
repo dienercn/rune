@@ -21,6 +21,8 @@ Welcome to the future of running. Welcome to a revolution on foot.
 
 ## Vision
 
+RUNE empowers runners to effortlessly discover meaningful events, forge authentic connections, and embrace the joy of movement through every stride. We envision a world where running is more than a sport — it’s a shared journey that unites, inspires, and transforms lives.
+
 ## Problem statement
 
 
