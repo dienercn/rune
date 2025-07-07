@@ -35,8 +35,32 @@ Without direct access to structured communities or reliable engagement data, Iâ€
 
 ## Core feature set
 ### User Management and Access: Secure, Inclusive, and Frictionless
-
+#### Multi-Channel Login Options
 A foundational pillar of any modern platform is a robust identity and access management system. RUNE must make it as easy and safe as possible for users to join, return, and engage daily.
+That requires a huge variety of login options for our end customers. As they are mentioned below in order of their priority
+
+1. E-Mail-Address and Password
+2. Strava Social Login
+3. Google Account
+4. Apple ID
+5. Phone number (via SMS OTP validation)
+
+This ensures broad accessibility, including younger users and those who prioritize convenience or privacy.
+
+On top of that not only log-in mechanism must be involved, but also in case of case no. 1 (e-mail-address and password) own implementations of password reset & password forget routines.
+
+#### Authentication & Authorization Architecture
+RUNE needs to establish a strong backend framework for authentication (verifying who a user is) and authorization (what they are allowed to do). This is essential for ensuring privacy, data integrity, and user safety â€” especially for features like messaging, event participation, and analytics access.
+
+#### Role-Based Access Control (RBAC)
+Every user account must be tied to a specific role or combination of roles:
+
+- Runner >> The core user looking for events, benefits, and connections.
+- Provider >> A group leader or event organizer who manages events, communities, and participant engagement
+- Sponsor >> A business entity offering tailored products, benefits, or campaigns to the community.
+
+Entitlements should be tightly scoped to these roles, preventing unauthorized access and enabling granular feature control.
+
 ---
 
 ## Branding concept
