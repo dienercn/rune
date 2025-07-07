@@ -61,76 +61,44 @@ Every user account must be tied to a specific role or combination of roles:
 
 Entitlements should be tightly scoped to these roles, preventing unauthorized access and enabling granular feature control.
 
----
+### Event Discovery and Participation: Easy, Personalized, and Rewarding
+A core part of the runner experience is the ability to discover and take part in running events. But this should be more than just browsing a list — it should be a personalized, intelligent journey that adapts to user behavior and community trends.
 
-## Branding concept
-### 🏷️ **Brand name**
+#### Search Functions
+A powerful, responsive search function that allows runners to find events by:
+- Event name
+- Organisator
+- Location (Latitude, Longitude)
+- Date and time
+- Distance (e.g., 5k, 10k, trail, ultra)
+- Event type (community run, race, multi-day event)
 
-**RUNE** (ɾʌn-​ĩ)
-A very short and concise name with double meaning
+#### Filtering Options
+Advanced filtering allows users to refine results based on:
+- Surface (trail, road, mixed)
+- Community type (inclusive, competitive, beginners, etc.)
+- Elevation gain
+- Weather forecast
 
-* **RUN** = eng., to run
-* **E** = eng., Event
-* **RUNE** = Old symbol for strength, leading and knowledge Symbol für Kraft, Richtung, Wissen
-
----
-
-### 🧭 **Brand identity**
-
-#### 💡 **Brand Essence**
-**„RUNE stands for movement with a meaningful purpose“**
-Whether on the trail or during a city run – with RUNE, users discover new paths, events and communities.
-
-### 🌈 **Brand values**
-
-| Value              | App meaning                                       |
-| ------------------ | ------------------------------------------------- |
-| **Movement**       | Activity, progress, personal growth               |
-| **Connectedness**  | Community, shared experiences, local events       |
-| **Discovery**      | New trails, locations, running groups & events    |
-| **Intuition**      | User-centricity, simple UX, smart suggestions     |
-| **Individuality**  | Every run is different – ​​RUNE adapts              |
-
----
-
-## Ideation
-### 🎨 **Color palette**
-
-A mix of nature, technology and energy:
-
-| Farbe          | Hex       | Bedeutung                    |
-| -------------- | --------- | ---------------------------- |
-| **Evergreen**  | `#004B41` | Nature, peace, forest, trust |
-| **Rune Gold**  | `#D4AF37` | Symbolism, goal, meaning     |
-| **Aqua Mint**  | `#2A9D8F` | Freshness, clarity, movement |
-| **Black**      | `#000000` | Focus, elegance, readability |
-| **White**      | `#FFFFFF` | Openness, space, clarity     |
-| **Accent Red** | `#F15A24` | Energy, motivation, “Go!”    |
+#### Event Booking, Check-In, and Participation
+RUNE must allow:
+- Seamless event registration
+- In-app QR check-ins or GPS-based auto-check-ins
+- Status tracking (“interested,” “booked,” “attended”)
 
 
-### 🔤 **Typography**
 
-**Main font (Logo + Headlines):**
+### Community Building: Beyond the Finish Line
+RUNE needs to go beyond transactional event participation and build lasting, human connections between runners — because community is the beating heart of the sport.
 
-* **Cinzel** or **Cormorant Garamond**
+#### Runner Connections Post-Event
+After participating in an event, users should be able to:
+- See who else attended
+- Send follow or connection requests
+- Share media from the event
+- Continue the conversation or plan new runs together
 
-**Secondary font (UI, Body-Text):**
-
-* **Inter** or **Manrope** 
-
-### 📱 **App-Concept (UX/UI)**
-
-* **Speach:** Clear, friendly and motivting
-* **Navigation:** Intuitive with focus on "Exploration", "Attending", "Matching/Connecting" and "Sharing"
-* **Emotion:** Feeling or progress, belonging and curiosity
-
-
-## 🔧 **Feature-Branding (Examples / Ideas UI)**
-
-| Funktion            | In-App-Bezeichnung     |
-| ------------------- | ---------------------- |
-| Event-Finder        | **Rune Radar**         |
-| Community Check-In  | **RUNE Connect**       |
-| Personal profile    | **My RUNE**            |
-| Favoriten           | **Marks**              |
-| Tickets/Check-Ins   | **Runes**              |
+#### Social Features (Optional and Private)
+- Direct messaging (with privacy filters)
+- Group chats for event attendees
+- Digital runner profiles with preferences, achievements, and pace
