@@ -33,6 +33,10 @@ At the same time, promoting our events and activities is time-consuming and inef
 As a sponsor looking to engage with the vibrant and growing running community, I recognize the immense potential — both in terms of brand visibility and customer loyalty. Runners are passionate, purpose-driven, and often highly engaged with the products and services that support their lifestyle. However, despite the size and enthusiasm of this community, reaching them in a meaningful and efficient way remains a major challenge. The current landscape is fragmented: communities are scattered across various platforms, events are promoted inconsistently, and there’s no centralized space where I can offer tailored content, services, or promotions directly to the right audience.
 Without direct access to structured communities or reliable engagement data, I’m left with limited options: I either collaborate with influencers, which often comes at a high cost and unpredictable outcomes, or I launch broad, untargeted social media campaigns that lack precision and measurable impact. Both approaches are resource-intensive and offer no guarantee of return. What I’m missing is a streamlined, data-driven platform that connects me directly with active, interested runners — where I can deliver personalized offerings, support community initiatives, and build lasting brand relationships. In a competitive market, I need more than visibility — I need authentic, effective access to the running world.
 
+## Core feature set
+### User Management and Access: Secure, Inclusive, and Frictionless
+
+A foundational pillar of any modern platform is a robust identity and access management system. RUNE must make it as easy and safe as possible for users to join, return, and engage daily.
 ---
 
 ## Branding concept
