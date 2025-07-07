@@ -30,7 +30,8 @@ As a community provider, my goal is to create meaningful experiences for runners
 At the same time, promoting our events and activities is time-consuming and inefficient. I’m forced to juggle multiple platforms like Instagram, Facebook, and Strava just to keep our presence alive — yet there’s no unified way to reach both current and potential members in a consistent, professional way. Communication and organization often happen through WhatsApp or other informal tools, which quickly become chaotic, unreliable, and unscalable. In the end, what should be an inspiring, vibrant space for connection and growth turns into a time-consuming task with little support. What I need is a platform that makes community management easier, smarter, and more impactful.
 
 ### Actor: Sponsor
-
+As a sponsor looking to engage with the vibrant and growing running community, I recognize the immense potential — both in terms of brand visibility and customer loyalty. Runners are passionate, purpose-driven, and often highly engaged with the products and services that support their lifestyle. However, despite the size and enthusiasm of this community, reaching them in a meaningful and efficient way remains a major challenge. The current landscape is fragmented: communities are scattered across various platforms, events are promoted inconsistently, and there’s no centralized space where I can offer tailored content, services, or promotions directly to the right audience.
+Without direct access to structured communities or reliable engagement data, I’m left with limited options: I either collaborate with influencers, which often comes at a high cost and unpredictable outcomes, or I launch broad, untargeted social media campaigns that lack precision and measurable impact. Both approaches are resource-intensive and offer no guarantee of return. What I’m missing is a streamlined, data-driven platform that connects me directly with active, interested runners — where I can deliver personalized offerings, support community initiatives, and build lasting brand relationships. In a competitive market, I need more than visibility — I need authentic, effective access to the running world.
 
 ---
 
@@ -38,7 +39,7 @@ At the same time, promoting our events and activities is time-consuming and inef
 ### 🏷️ **Brand name**
 
 **RUNE** (ɾʌn-​ĩ)
-A very short and concise Name with double meaning
+A very short and concise name with double meaning
 
 * **RUN** = eng., to run
 * **E** = eng., Event
@@ -89,9 +90,6 @@ A mix of nature, technology and energy:
 
 * **Inter** or **Manrope** 
 
-## 🖼️ **Logo-Idee**
-
-
 ### 📱 **App-Concept (UX/UI)**
 
 * **Speach:** Clear, friendly and motivting
@@ -108,5 +106,3 @@ A mix of nature, technology and energy:
 | Personal profile    | **My RUNE**            |
 | Favoriten           | **Marks**              |
 | Tickets/Check-Ins   | **Runes**              |
-
----
