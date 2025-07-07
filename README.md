@@ -33,8 +33,6 @@ At the same time, promoting our events and activities is time-consuming and inef
 As a sponsor looking to engage with the vibrant and growing running community, I recognize the immense potential — both in terms of brand visibility and customer loyalty. Runners are passionate, purpose-driven, and often highly engaged with the products and services that support their lifestyle. However, despite the size and enthusiasm of this community, reaching them in a meaningful and efficient way remains a major challenge. The current landscape is fragmented: communities are scattered across various platforms, events are promoted inconsistently, and there’s no centralized space where I can offer tailored content, services, or promotions directly to the right audience.
 Without direct access to structured communities or reliable engagement data, I’m left with limited options: I either collaborate with influencers, which often comes at a high cost and unpredictable outcomes, or I launch broad, untargeted social media campaigns that lack precision and measurable impact. Both approaches are resource-intensive and offer no guarantee of return. What I’m missing is a streamlined, data-driven platform that connects me directly with active, interested runners — where I can deliver personalized offerings, support community initiatives, and build lasting brand relationships. In a competitive market, I need more than visibility — I need authentic, effective access to the running world.
 
-![Core Feature Set of RUNE!](https://www.pexels.com/de-de/foto/zwei-frauen-die-den-code-am-laptop-betrachten-1181263/)
-
 ## Core feature set
 ### User Management and Access: Secure, Inclusive, and Frictionless
 #### Multi-Channel Login Options
@@ -103,3 +101,99 @@ After participating in an event, users should be able to:
 - Direct messaging (with privacy filters)
 - Group chats for event attendees
 - Digital runner profiles with preferences, achievements, and pace
+
+### Rewards and Benefits: Motivate, Celebrate, Retain
+A well-designed reward system not only boosts retention but also gives users a tangible reason to stay engaged.
+
+#### Redeemable Awards
+Runners can earn digital badges or points for:
+- Attending event
+- Inviting friends
+- Sharing event feedback
+- Participating consistently over time
+
+#### Sponsor Benefits and Coupons
+Points can be redeemed for:
+ - Discount vouchers
+ - Product trials
+ - Exclusive training sessions or merchandise
+ - Priority access to premium events
+
+#### Digital Wallet
+A section in the app where runners can store earned rewards, upcoming event entries, past results, and received benefits.
+
+### Provider Tools: Simplify Management, Amplify Reach
+For community providers, the RUNE platform must serve as an operating system for running groups — streamlining operations and increasing visibility.
+
+#### Event Creation and Management
+Organizers can:
+- Create and publish events in minutes
+- Set limits on participants
+- Enable recurring or one-time events
+- Upload maps, photos, descriptions
+- Set location based on Latitue and Longitude
+- Set requirements (pace, gear, fitness level)
+- Add multiple distances per event
+
+#### Participant Analytics
+Detailed dashboards showing:
+
+- Registrations over time
+- Attendance vs. no-shows
+- Community growth
+- Most engaged members
+
+#### Media Uploads and Community Feed:
+Providers can share:
+- Post-event recaps
+- Upcoming event teasers
+- Group photos and videos
+- Polls and announcements
+
+#### Communication Tools:
+Built-in tools to message the community or individual runners without relying on third-party apps like WhatsApp or Telegram.
+
+
+### Sponsor Access: Targeted, Authentic, Measurable
+For sponsors, RUNE should become a trusted channel to reach highly engaged, pre-segmented running audiences — in a way that feels natural, valuable, and non-intrusive.
+
+#### Data-Driven Sponsorship Opportunities
+Access to aggregated (GDPR-compliant) analytics on:
+- Community sizes
+- Demographics
+- Engagement levels
+- Event participation patterns
+
+#### Branded Content and Benefits Integration
+Sponsors can:
+- Publish articles, training plans, or product features
+- Offer exclusive benefits (discounts, trial codes, etc.)
+- Embed their brand within relevant events and communities
+
+#### Media Uploads and Storytelling Tools
+Visual branding through:
+- Sponsored event banners
+- Post-run highlights
+- Runners’ stories tied to sponsor campaigns
+
+### Daily Engagement Strategy
+To foster true stickiness, RUNE must give all users a reason to return every day — not just when they’re booking a run.
+
+#### Daily Challenges or Inspirations
+E.g., “Run 3k before sunset,” “Share your favorite trail,” “Tag your running buddy.”
+
+#### Smart Feed for Each Role:
+- Runners: Personalized event suggestions, news, tips
+- Providers: Community insights, planning reminders
+- Sponsors: Campaign results, market trends
+
+#### Push Notifications (User-Controlled):
+- Upcoming events
+- Expiring rewards
+- New connections
+- Sponsored perks
+
+### Conclusion
+RUNE is not just a tool — it’s an ecosystem designed to empower runners, simplify life for community organizers, and create meaningful brand partnerships. By solving the fragmented, inefficient, and impersonal aspects of today’s running landscape, RUNE offers a comprehensive and engaging digital platform that connects people, experiences, and values in one shared journey.
+
+To deliver on this promise, RUNE must invest in a thoughtful, scalable, and role-based feature architecture that provides runners with simplicity and discovery, providers with structure and insights, and sponsors with relevance and impact. Only then will RUNE become the central hub of a stronger, smarter, and more connected running world.
