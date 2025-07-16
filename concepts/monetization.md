@@ -1,147 +1,44 @@
-# 💸 Monetization Concept for RUNE
+# Business Model & Monetization
 
-RUNE is designed to empower runners, support community providers, and unlock high-value marketing for sponsors — all while offering a sustainable, scalable business model.
+## Guiding Principles
 
----
+Our monetization strategy is built on a core philosophy of enhancing the RUNE ecosystem, not extracting value from it. Our principles are as follows:
 
-## 🎽 1. Free for Runners – Community-First Approach
+* **Runner-First:** The core experience for runners will always be free. Our growth depends on building a vibrant, accessible community without barriers to entry.
+* **Value-Based Exchange:** We will monetize the demonstrable value and efficiency we provide to community organizers (Providers) and brand partners (Sponsors).
+* **Privacy by Design:** All monetization strategies, especially concerning sponsors, must be built on a foundation of user trust and data privacy, adhering to regulations like GDPR.
 
-### 🧭 Rationale:
-To build a strong, loyal user base, runners must be able to use RUNE completely free of charge. Their data, engagement, and presence form the foundation of the ecosystem — so monetization must focus on indirect value from their activity.
+## Runner (Core User)
 
-### ✅ What Runners Get for Free:
-- Full access to search, filter, and book events  
-- Daily feed and personalized suggestions  
-- Check-in and participation tracking  
-- Connecting with other runners  
-- Earning and redeeming rewards  
-- Viewing sponsor offerings (optional engagement)
+The RUNE platform is **free** for all runners. This includes discovering and booking events, participating in challenges, connecting with other runners, and managing their profile.
 
-### 💡 Optional Additions:
-- Option to tip/support communities they love  
-- Voluntary opt-in for tailored sponsor benefits  
+## Provider (Community Organizer)
 
----
+We will utilize a "Value-Added Tools" Freemium model to empower providers of all sizes.
 
-## 🏃‍♂️ 2. Freemium Model for Community Providers
+#### **Free Tier**
+Designed to be fully functional for most new and small-to-medium-sized running communities.
+* **Core Functionality:** Includes event creation, participant management via check-in, and a public community page.
+* **Generous Limits:** The free tier will have generous usage limits for the number of events and participants.
 
-### 🧭 Rationale:
-Most running groups start small and grow organically. RUNE supports them early without cost, and scales pricing as their community size and media/organizational needs increase.
+#### **Pro Tier (Paid Subscription)**
+A monthly or annual subscription that unlocks a powerful suite of integrated tools designed for serious community organizers who want to save time, engage their members more deeply, and prove their community's value.
 
-### 🔓 Free Tier – For Grassroots Groups
-**Ideal for small/new communities**
+* **Advanced Analytics:** Access to a dashboard with data on attendance trends, no-show rates, member engagement over time, and community growth metrics.
+* **Integrated Communication Tools:** The ability to send targeted emails or push notifications to community members based on their activity and event history (e.g., messaging everyone who attended a previous trail run about a new one).
+* **Sponsor Management & ROI Reporting:** The ability to seamlessly integrate sponsor-provided benefits into their events and access reports showing attendee engagement with those benefits, providing demonstrable ROI to their partners.
 
-Includes:
-- Up to **3 events/month**  
-- Max **50 check-ins/event**  
-- **1 admin account**  
-- **500 MB/month** media upload  
-- Basic analytics  
-- Messaging to event participants  
-- Basic branded profile page  
+## Sponsor (Brand Partner)
 
----
+#### The "Targeted Access" Model
+Our model is built on protecting our users' privacy. Sponsors will **not** be given direct access to runners' Personally Identifiable Information (PII). Instead, RUNE will offer a self-service platform where sponsors pay to run highly-targeted campaigns directed at anonymized user segments within the RUNE ecosystem.
 
-### 💼 Pro Tier – For Growing Communities  
-**€19/month** or **€199/year**
+#### Monetization Products
+Sponsors can purchase the following campaign types on a flexible basis:
 
-Includes everything in Free, plus:
-- Unlimited events  
-- Up to **300 check-ins/event**  
-- **3 admin accounts**  
-- **5 GB/month** media upload  
-- Advanced analytics (growth, demographics, pace)  
-- Messaging to followers  
-- Event badges and rankings  
-- Sponsor visibility dashboard  
-
----
-
-### 🏢 Premium Tier – For Professional Organizers  
-**€49/month** or **€499/year**
-
-Includes everything in Pro, plus:
-- Unlimited check-ins  
-- Unlimited uploads  
-- Co-branded event pages  
-- Registration exports & mailing tools  
-- Custom sponsor integrations  
-- Real-time heatmaps  
-- Access to RUNE Provider Council  
-
----
-
-## 💼 3. B2B Monetization for Sponsors
-
-### 🧭 Rationale:
-Sponsors are willing to pay for qualified access to an active and segmented running audience. Pricing reflects data access, visibility, and engagement depth.
-
-### 📊 Data Consumption Pricing
-
-| Access Level | Insights | Monthly Price |
-|--------------|----------|----------------|
-| Basic        | Community size, frequency, region | €99 |
-| Advanced     | Engagement, attendance, pace split | €249 |
-| Premium      | Real-time behavior, retention, redemptions | €499 |
-
-*All data is anonymized and GDPR-compliant.*
-
----
-
-### 📣 Product Placement Options
-
-| Placement Type        | Description                                | Price                        |
-|-----------------------|--------------------------------------------|------------------------------|
-| Featured Event Sponsor | Logo + message on events                   | €50/event or €300/month      |
-| Reward Sponsor        | Benefits via RUNE reward system             | Revenue share only           |
-| Branded Challenges    | Activity-based discount rewards             | €250/challenge               |
-| Feed Banners          | Geo/profile-targeted ads                    | €15 CPM                      |
-| Sponsored Articles    | Native content in feed                      | €250/article                 |
-
----
-
-### 🛍️ Marketplace Listings & Perks
-
-- **List products/services** in the RUNE Marketplace  
-- RUNE takes **15% revenue share** per sale or redemption  
-- High-conversion perks (samples, early access) prioritized  
-
----
-
-## 💡 Additional Revenue Streams
-
-### 🎤 Premium Visibility Packages
-- Co-hosted events  
-- Featured community spotlights  
-- Sponsored newsletters  
-
-### 📱 White-Label Solutions (B2B)
-- For internal/external use (e.g. Adidas Runners)  
-- Custom branding + RUNE backend  
-- Custom pricing  
-
----
-
-## 🔁 Summary Table
-
-| User Type   | Cost        | Paid Options                           | Key Revenue Lever               |
-|-------------|-------------|----------------------------------------|----------------------------------|
-| Runner      | Free        | Optional tipping, sponsor opt-in       | Indirect (engagement/sponsors)  |
-| Provider    | Freemium    | €19–€49/month tiers                    | Subscriptions                   |
-| Sponsor     | Paid Only   | Data + ads + placements                | B2B data and advertising        |
-
----
-
-## 🎯 Strategic Benefits
-
-- **Scalable:** Grows with community maturity  
-- **Low-friction:** Encourages early adoption  
-- **Value-aligned:** Stakeholders pay for value received  
-- **Compliant:** Fully GDPR-compatible  
-- **Diverse:** Mix of subscription, B2B, and marketplace revenue
-
----
-
-RUNE delivers a sustainable ecosystem that grows with its users and partners — creating value for everyone while staying true to its vision:
-
-**Discover. Run. Connect.**
+1.  **Sponsored Events:** A brand can pay a fee to have their logo and branding prominently featured as the official sponsor on specific event pages.
+2.  **Targeted Digital Rewards:** Sponsors can pay to deliver a digital benefit (e.g., a discount coupon, a product trial) to a specific audience based on their verified activity on the platform (e.g., runners in a certain city who have completed their first 10k race).
+3.  **Event-Centric Sponsored Challenges:** Sponsoring challenges that require users to participate in community events. Examples include:
+    * **"Community Explorer" Challenge:** Rewarding users for attending events from several different communities.
+    * **"Provider Loyalty" Challenge:** Rewarding users for frequent attendance at a specific partner community's events.
+4.  **Branded Content Hub:** Sponsors can pay to publish valuable, non-disruptive content such as training plans, nutrition guides, or articles within a dedicated section of the app, building brand authority and trust.
